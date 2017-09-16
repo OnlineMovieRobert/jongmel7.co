@@ -23,8 +23,9 @@
             .cta-contents{
                 padding-top: 10px;
                 padding-bottom: 10px;
-                border-right:1px solid #cacaca;
-                width: 135px;
+                border-right: 1px solid #cacaca;
+                width: 93px;
+                float: left;
             }
             
             .cta-title &gt; img{
